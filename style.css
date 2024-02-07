@@ -1,0 +1,18 @@
+.div1{
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    top: 50px;
+}
+.div2{
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    top: 200px;
+    right: 40px;
+}
